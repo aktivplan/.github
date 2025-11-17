@@ -1,12 +1,5 @@
 ## aktivplan+ 
 
-### This is a source-available, free to use application for research purposes 
-### The source code is released under the following licenses (cf. respective repositories for applicable license):
-
-#### Apache License 2.0 + Commons Clause for the application
-#### Elastic License 2.0 for the backend
-
-
 ## About
 
 The aktivplan application is designed to facilitate collaboration between healthcare professionals and patients in the context of planning and documenting physical activities that support general heart health and well-being. It is available both as a web-based and a mobile application. aktivplan serves as a digital support and communication tool, helping health professionals and their patients jointly organize, record, and review a personalized physical activity plan.
@@ -20,3 +13,10 @@ aktivplan is intended solely as a digital facilitation and record-keeping tool t
 The application is provided as source-available software, licensed under the Elastic License v2 and Apache 2.0 with Commons Clause. Any party choosing to deploy or operate an instance of the software assumes full responsibility for compliance with applicable laws, regulations, and data-protection requirements. The maintainers of the source code do not offer hosted instances and bear no liability for third-party deployments
  
 The development of the aktivplan app was supported by a COVID-19 related grant from the Open Innovation in Science Center of the Ludwig Boltzmann Gesellschaft (CODIS) and implemented in cooperation with Alphaport OG and Chino.io.
+
+## Licenses
+
+This is a source-available, free to use application for research purposes.
+The source code is released under the following licenses (cf. respective repositories for applicable license):
+  - Apache License 2.0 + Commons Clause for the application
+  - Elastic License 2.0 for the backend
